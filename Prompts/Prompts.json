@@ -1,0 +1,1246 @@
+[
+  {
+    "concept": "Newton’s First Law of Motion (Inertia)",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "An object at rest will remain at rest unless a force causes it to move.",
+        "prompt": "A toy car sits still on a smooth, wooden floor. A hand gently pushes it, and it rolls forward a short distance. The background is a brightly lit playroom."
+      },
+      "T02": {
+        "teaching_point": "An object in motion will continue moving at the same speed and in the same direction unless a force changes it.",
+        "prompt": "A rolling ball continues to travel in a straight line across a grassy field. The background is a sunny field with a distant fence."
+      },
+      "T04": {
+        "teaching_point": "The more mass an object has, the harder it is to change its motion.",
+        "prompt": "A small, lightweight ball rolls easily when pushed, while on pushing a large, heavy bowling ball it starts moving later."
+      },
+      "T05": {
+        "teaching_point": "When a force is applied, an object accelerates in the direction of that force.",
+        "prompt": "A person pushes a shopping cart; the cart begins to move down a smooth aisle. The background shows a supermarket aisle."
+      }
+    },
+    "Id": 1,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Newton’s Second Law (F = ma)",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A heavier object requires a greater force to produce the same acceleration.",
+        "prompt": "Two people push identical-looking sleds on snow: one is empty, and it glides forward quickly. The other is filled with supplies and moves much more slowly despite equal pushing force. The background is a snowy field."
+      },
+      "T02": {
+        "teaching_point": "A larger force results in a larger change in motion.",
+        "prompt": "A student gently pushes a cart, and it moves a short distance. Then, the student gives it a strong push, and it accelerates rapidly down the same hallway. The setting is a school corridor with smooth flooring."
+      },
+      "T03": {
+        "teaching_point": "The same force causes different accelerations depending on the object's mass.",
+        "prompt": "A robot arm applies equal force to two blocks on a conveyor belt: one block is small and speeds up quickly, the other is large and moves slowly. The background is a lab setting."
+      }
+    },
+    "Id": 2,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Newton’s Third Law (Action-Reaction)",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "When one object exerts a force on another, the other exerts an equal and opposite force in return.",
+        "prompt": "A person vigorously pushes against a large wall. The wall exerts an equal and opposite force on the person, preventing them from moving forward. The background is a simple, empty hallway."
+      },
+      "T02": {
+        "teaching_point": "The forces are always equal in magnitude but act in opposite directions.",
+        "prompt": "A rocket expels hot gas downwards with tremendous force. Simultaneously, the rocket moves upwards with an equal and opposite force. The background is a desert landscape with a rocket launch site."
+      },
+      "T03": {
+        "teaching_point": "The action and reaction forces always act on different objects.",
+        "prompt": "A swimmer pushes against water with their hands. The water pushes back on the swimmer with equal force, propelling them forward. The background is a swimming pool."
+      }
+    },
+    "Id": 3,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Equilibrium and Net Force",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Static Equilibrium",
+        "prompt": "A small wooden block sits perfectly still on a smooth, flat surface. A gentle breeze rustles nearby leaves. The background shows a sunlit garden."
+      },
+      "T02": {
+        "teaching_point": "Dynamic Equilibrium",
+        "prompt": "A toy car moves continuously down a straight track, never slowing down or changing direction. The background is a brightly colored playroom."
+      },
+      "T03": {
+        "teaching_point": "If the net force on an object is zero, it stays at rest or keeps moving at constant speed.",
+        "prompt": "A seesaw balances perfectly with a child on one side and a toy on the other. The background shows a park with families playing."
+      }
+    },
+    "Id": 4,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Contact Forces",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Friction opposes motion when two surfaces rub against each other.",
+        "prompt": "A child pushes a toy car across a carpeted floor. As soon as the child stops pushing, the car quickly slows down and stops. Close-up shows the tiny fibers of the carpet rubbing against the wheels."
+      },
+      "T02": {
+        "teaching_point": "The normal force pushes up from a surface to support an object resting on it.",
+        "prompt": "A book lies flat on a table. A subtle arrow points upward from the table surface, countering the downward arrow of the book’s weight. The background shows a quiet study room with shelves of books."
+      },
+      "T03": {
+        "teaching_point": "Tension is the pulling force carried by strings or ropes.",
+        "prompt": "A person pulls a bucket up from a well using a rope. The rope stretches slightly as the bucket rises. The background includes a stone well, grassy field, and trees swaying in the breeze."
+      },
+      "T04": {
+        "teaching_point": "An applied force causes an object to accelerate if it’s unbalanced.",
+        "prompt": "A person pushes a heavy box across a smooth floor. The box slowly starts moving. Arrows show the direction of the push and the resulting movement. The setting is an empty room with stacked furniture."
+      },
+      "T05": {
+        "teaching_point": "A spring exerts a restoring force when stretched or compressed.",
+        "prompt": "A hand stretches a coiled spring attached to a wall. Once released, the spring snaps back to its original shape. Arrows illustrate the tension and restoring force. The scene is a clean science lab bench with equipment."
+      }
+    },
+    "Id": 5,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Displacement, Velocity, and Acceleration",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Displacement describes the change in position of an object.",
+        "prompt": "A toy car starts at point A, moves in a straight line to point B, then returns to point A following a wide parabolic arc. At the end of the motion, the straight-line path from point A to point B is softly highlighted on the table surface. The background is a clean wooden table in a brightly lit room."
+      },
+      "T02": {
+        "teaching_point": "Velocity describes how quickly and in what direction an object is changing its position.",
+        "prompt": "A skateboarder moves quickly along a straight path, then turns a corner and continues at a different speed. The background shows a skate park with ramps and curves."
+      },
+      "T03": {
+        "teaching_point": "Acceleration describes how quickly and in what direction an object’s velocity is changing.",
+        "prompt": "A bicycle speeds up as the rider pushes down on the pedal, and then slows down as the rider applies the brakes. The background shows a cyclist on a road."
+      }
+    },
+    "Id": 6,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Motion in 1D and 2D",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Motion in 1D occurs along a single straight line",
+        "prompt": "A toy train moves back and forth along a straight track. The background shows a wall-mounted number line tracking its position."
+      },
+      "T02": {
+        "teaching_point": "In 2D motion, position is described using two coordinates, such as x and y.",
+        "prompt": "A drone flies diagonally over a grid marked on the ground, with its changing x and y positions traced as a glowing path. The scene is set in a wide-open park."
+      }
+    },
+    "Id": 7,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Projectile Motion",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "An object launched upwards follows a curved path due to gravity.",
+        "prompt": "A ball is thrown from a hilltop and follows a smooth, curved path before landing. The background shows a grassy hill with a clear sky."
+      },
+      "T02": {
+        "teaching_point": "The initial launch direction affects the object's range.",
+        "prompt": "Two identical balls are launched from the same height—one vertically upward and the other at an angle. Both follow curved paths and land at different distances on a flat field. The background is a wide open grassy area."
+      },
+      "T03": {
+        "teaching_point": "Gravity constantly pulls the object downwards, causing a downward acceleration.",
+        "prompt": "A person tosses a ball straight up while standing on a beach. The ball slows as it rises, pauses momentarily at its peak, then accelerates downward back into the person’s hand. The background shows sand and ocean waves."
+      }
+    },
+    "Id": 8,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Relative Motion",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Observers in different frames of reference perceive motion differently",
+        "prompt": "A person holds a ball while riding a skateboard. The skateboard moves forward. Another person stands still and watches. The ball looks still to the rider but looks like it's moving to the observer."
+      },
+      "T02": {
+        "teaching_point": "Relative motion in same direction",
+        "prompt": "Two cars drive side by side in the same direction at slightly different speeds. The camera follows the slower car as the other car slowly pulls ahead."
+      },
+      "T03": {
+        "teaching_point": "Relative motion in different direction",
+        "prompt": "Two trains move on parallel tracks—one from left to right, the other from right to left. The camera stays still between the tracks, showing the trains moving past each other in opposite directions."
+      },
+      "T04": {
+        "teaching_point": "Objects moving at the same speed and direction appear stationary relative to each other.",
+        "prompt": "Two toy cars move side by side at the same speed on a flat surface. The camera moves along with them, showing the cars staying aligned and appearing still relative to each other as the background shifts."
+      }
+    },
+    "Id": 9,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Circular Motion and Centripetal Force",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "An object moving in a circle is constantly changing direction.",
+        "prompt": "Toy car moves in a circle, direction constantly changes, simplified race track."
+      },
+      "T02": {
+        "teaching_point": "A centripetal force is required to keep an object moving in a circle",
+        "prompt": "A person holds a string with a ball tied to the end and spins it in a circle. The camera shows the ball moving around while the string stays tight, clearly pulling the ball toward the center."
+      },
+      "T03": {
+        "teaching_point": "The direction of velocity is always tangent to the circular path",
+        "prompt": "An overhead view of a toy car driving in a circular path. At several points along the circle, arrows show the car’s velocity pointing straight along the tangent, not toward the center."
+      },
+      "T04": {
+        "teaching_point": "If the centripetal force is removed, the object moves in a straight line",
+        "prompt": "A ball tied to a string is being swung in a circle. Suddenly, the string breaks. The camera follows the ball as it moves off in a straight line tangent to the circle."
+      }
+    },
+    "Id": 10,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Work Done by a Force",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Moving an object requires applying a force over a distance.",
+        "prompt": "A person pushes a box across a floor. The box moves a short distance. The background is a simple warehouse."
+      },
+      "T02": {
+        "teaching_point": "The amount of work done depends on both the strength of the force and how far the object moves with that force.",
+        "prompt": "A hand pushes a large boulder and a small rock. The boulder moves a short distance, while the rock moves a long distance. The background is a rocky hillside."
+      },
+      "T03": {
+        "teaching_point": "If a force acts in the same direction as an object’s movement, it performs positive work.",
+        "prompt": "A child pulls a wagon down a gentle slope. The wagon moves steadily. The background shows a park path."
+      },
+      "T04": {
+        "teaching_point": "If a force acts against the direction of an object’s movement, it performs negative work.",
+        "prompt": "A hand pushes against a heavy box trying to move it across the floor. The box does not move. The background is a clean workshop."
+      }
+    },
+    "Id": 11,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Kinetic and Potential Energy",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "When an object moves, it has energy related to its motion – this is kinetic energy.",
+        "prompt": "A child runs across the field, picking up speed as they sprint."
+      },
+      "T02": {
+        "teaching_point": "An object held at a height above the ground has stored energy due to its position – this is potential energy.",
+        "prompt": "A large boulder is perched at the top of a steep hill, motionless but ready to roll down if nudged."
+      },
+      "T03": {
+        "teaching_point": "Potential energy can be converted into kinetic energy when the object is released.",
+        "prompt": "A roller coaster car begins its descent from the top of a hill, rapidly gaining speed as it rushes downward along the track."
+      }
+    },
+    "Id": 12,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Work-Energy Theorem",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "The net work done on an object results in a change in its kinetic energy.",
+        "prompt": "A car accelerates from rest on a straight road, with buildings and trees lining the background."
+      },
+      "T02": {
+        "teaching_point": "If no net work is done on an object, its kinetic energy remains unchanged.",
+        "prompt": "A skater glides across smooth ice at constant speed, with no visible pushing or resistance. The background is a quiet indoor skating rink."
+      },
+      "T03": {
+        "teaching_point": "Positive net work increases an object's kinetic energy, making it move faster.",
+        "prompt": "A rocket lifts off and gains speed as flames burst from its engines. The sky transitions from blue to space-black in the background."
+      },
+      "T04": {
+        "teaching_point": "Negative net work decreases an object’s kinetic energy, slowing it down.",
+        "prompt": "A cyclist presses the brakes while going downhill, gradually reducing speed. The background shows a winding mountain road."
+      }
+    },
+    "Id": 13,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Conservation of Mechanical Energy",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "In the absence of friction and air resistance, the total mechanical energy of an object remains constant.",
+        "prompt": "A skier glides down a smooth icy hill and up another slope without slowing down. The background shows a quiet mountain pass with snow-covered slopes and no wind."
+      },
+      "T02": {
+        "teaching_point": "As an object falls, its potential energy decreases while its kinetic energy increases, keeping the total mechanical energy constant.",
+        "prompt": "A ball is released from a height and speeds up as it falls. The background is a clear, indoor lab setup with measurement markers on the wall."
+      },
+      "T03": {
+        "teaching_point": "As an object rises, its kinetic energy decreases while its potential energy increases, but total mechanical energy stays unchanged.",
+        "prompt": "A child throws a ball upward. The ball slows down as it gains height. The background is a grassy backyard with a tree and fence."
+      }
+    },
+    "Id": 14,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Power and Efficiency",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Power is the rate at which work is done.",
+        "prompt": "Two people lift identical boxes – one does it quickly, the other slowly. The background shows a warehouse with stacks of boxes."
+      },
+      "T02": {
+        "teaching_point": "Higher power means completing the same task in less time.",
+        "prompt": "Two water pumps are filling separate tanks. One tank fills up quickly, while the other takes more time. The background shows a farm setting with water tanks."
+      },
+      "T03": {
+        "teaching_point": "Efficiency is the ratio of useful output energy to total input energy.",
+        "prompt": "A motor spins a fan. The fan blades turn slowly while visible heat rises from the motor. Most of the motor's energy appears to be lost as heat. The background is a plain room with no distractions."
+      },
+      "T04": {
+        "teaching_point": "A more efficient machine performs the same task using less energy.",
+        "prompt": "Two machines lift identical boxes. One machine glows with red heat and has a slower, shaky motion. The second machine runs smoothly, stays cool, and lifts the box quickly. The background shows a minimal industrial setting."
+      }
+    },
+    "Id": 15,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Center of Mass",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "The center of mass is the point where the mass of an object is concentrated.",
+        "prompt": "A person balances a baseball bat horizontally on their index finger. The bat remains level only when the finger is placed closer to the thicker, heavier end. The scene has a plain, neutral background to emphasize the bat."
+      },
+      "T02": {
+        "teaching_point": "For symmetrical objects of uniform density, the center of mass lies at the geometric center.",
+        "prompt": "A square wooden plank hangs evenly from its center point on a rope. The plank remains horizontal. The background is a clean workshop with minimal tools."
+      },
+      "T03": {
+        "teaching_point": "The center of mass can lie outside the physical body for irregular shapes.",
+        "prompt": "A metallic ring is hung from a string attached to its edge. The ring swings slightly, and a glowing dot appears at the center of the hollow space inside the ring, marking the center of mass. The background is a neutral lab setup with no distractions."
+      },
+      "T04": {
+        "teaching_point": "An object balances at its center of mass.",
+        "prompt": "A child balances a wooden ruler on one finger at its midpoint. The ruler stays level. The background is a classroom table with school supplies."
+      }
+    },
+    "Id": 16,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Impulse and Momentum",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Momentum is the quantity of motion an object has; it depends on both mass and velocity.",
+        "prompt": "Two objects—a small soccer ball and a large bowling ball—are rolling side by side at the same speed. The bowling ball knocks over pins easily, while the soccer ball barely moves them. The setting is a clean indoor space with clear lighting and minimal background."
+      },
+      "T02": {
+        "teaching_point": "A change in an object’s momentum results from an impulse acting on it.",
+        "prompt": "A large, heavy ball is at rest. A small, soft ball rolls towards it and hits it. The heavy ball moves noticeably after the impact. The setting is a simple outdoor area with grass and a few trees."
+      },
+      "T03": {
+        "teaching_point": "A larger impulse means a bigger change in an object’s momentum.",
+        "prompt": "Two people hit identical soccer balls—one gives a gentle tap, and the other delivers a strong kick. The gently tapped ball rolls a short distance, while the strongly kicked ball speeds far across the field. The setting is an open grassy soccer field under daylight."
+      },
+      "T04": {
+        "teaching_point": "The direction of the impulse must match the direction of the change in momentum.",
+        "prompt": "A child throws a ball forward. The ball travels across the yard. The background shows a grassy backyard with a fence."
+      },
+      "T05": {
+        "teaching_point": "The longer an impulse acts on an object, the greater the change in its momentum.",
+        "prompt": "A person pushes a red toy car along a smooth white floor. In the first case, the push is short, and the car moves a small distance. In the second case, the push lasts longer, and the car moves much farther. The background remains constant and uncluttered."
+      }
+    },
+    "Id": 17,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Conservation of Linear Momentum",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "When objects collide, their total momentum remains constant.",
+        "prompt": "Two toy cars, one red and one blue, approach each other on a straight track. They collide head-on and then roll off in different directions."
+      },
+      "T02": {
+        "teaching_point": "If no external forces act on a system, the total linear momentum of the system remains the same before and after a collision.",
+        "prompt": "Two identical ice skaters glide toward each other on a frictionless ice rink. They collide gently and move together slowly after the collision. The background is a quiet, empty ice rink with no distractions."
+      },
+      "T03": {
+        "teaching_point": "In a collision, if one object gains motion, it must be at the expense of another object.",
+        "prompt": "A large ball rolls down a ramp and hits a smaller stationary ball on a flat surface. After the collision, the smaller ball starts moving forward while the large ball slows down."
+      },
+      "T04": {
+        "teaching_point": "The greater the initial motion of objects involved in a collision, the greater the change in motion afterwards.",
+        "prompt": "Two toy cars roll toward each other—one moving fast and the other moving slowly. After the collision, the faster car bounces backward a significant distance. The scene takes place on a smooth, well-lit indoor floor."
+      }
+    },
+    "Id": 18,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Torque and Angular Acceleration",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Applying a twisting force causes an object to rotate.",
+        "prompt": "A child grabs the handle of a merry-go-round and pushes it hard. The merry-go-round spins faster."
+      },
+      "T02": {
+        "teaching_point": "The amount of twisting force affects how quickly an object rotates.",
+        "prompt": "A hand applies a larger twisting force to a fixed axle, causing a wheel to spin rapidly. Later, the hand pushes the wheel gently, and it spins slowly."
+      },
+      "T03": {
+        "teaching_point": "The farther from the center of rotation a force is applied, the greater the rotational effect.",
+        "prompt": "A person pushes down on a seesaw near the center. It moves slightly. Then, they push down at the end, and the seesaw moves much more."
+      }
+    },
+    "Id": 19,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Moment of Inertia",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Rotating objects resist changes in their spinning motion.",
+        "prompt": "A child tries to stop a spinning bicycle wheel by grabbing it, but the wheel resists and keeps turning for a while."
+      },
+      "T02": {
+        "teaching_point": "The farther a mass is from the axis of rotation, the more difficult it is to start or stop spinning.",
+        "prompt": "A person holds a thin rod at one end and tries to spin it; it's easy. Then, the person moves their hand closer to the center of the rod and it becomes much harder to spin. The background is a simple outdoor setting with a clear sky."
+      },
+      "T03": {
+        "teaching_point": "The shape of an object also affects its moment of inertia.",
+        "prompt": "A person rolls a solid sphere and a hollow ring down a ramp at the same time. The sphere reaches the bottom first. The background shows a simple physics lab setup with a ramp and measuring lines."
+      },
+      "T04": {
+        "teaching_point": "Rotating objects will continue rotating at a constant speed unless a force acts to change their rotation.",
+        "prompt": "A spinning top rotates smoothly on a flat surface. It keeps spinning steadily until a hand gently touches it, causing it to wobble and slow down. The background is a quiet indoor room with a table and books."
+      }
+    },
+    "Id": 20,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Angular Momentum and Conservation",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "An object rotating has a property called angular momentum.",
+        "prompt": "A spinning top rotates steadily on a flat surface. The background is a simple, brightly lit room with a wooden floor."
+      },
+      "T02": {
+        "teaching_point": "The amount of angular momentum depends on the object’s shape, size, and how fast it’s spinning.",
+        "prompt": "A figure skater pulls in their arms and spins faster. Then, the skater extends their arms and spins slower. The background is an empty ice rink."
+      },
+      "T03": {
+        "teaching_point": "If no external forces act on a rotating object, its angular momentum stays constant.",
+        "prompt": "A spinning space satellite continues to rotate steadily in the darkness of space. No other forces act on it. Stars twinkle in the background."
+      },
+      "T04": {
+        "teaching_point": "Angular momentum is conserved when no external torque acts, so changing body position changes spin rate to keep it constant.",
+        "prompt": "A figure skater spins with arms outstretched, then pulls them inward and spins faster. The background is a spotlighted ice rink."
+      }
+    },
+    "Id": 21,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Newton’s Law of Universal Gravitation",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Every object in the universe attracts every other object with a gravitational force.",
+        "prompt": "Two planets in space slowly pull toward each other due to invisible gravitational forces connecting them."
+      },
+      "T02": {
+        "teaching_point": "The gravitational force increases with the product of the two masses.",
+        "prompt": "A massive planet and a smaller moon draw closer together, with gravity lines growing stronger as their masses increase."
+      },
+      "T03": {
+        "teaching_point": "The gravitational force decreases with the square of the distance between objects.",
+        "prompt": "Two asteroids drift apart in space, and the gravitational lines between them fade and weaken as the distance increases."
+      }
+    },
+    "Id": 22,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Kepler’s Laws of Planetary Motion",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Planets move in elliptical orbits with the Sun at one focus.",
+        "prompt": "A planet moves around the Sun in an elliptical orbit. The Sun is at one side, not in the center. Show the planet moving smoothly along the orbit."
+      },
+      "T02": {
+        "teaching_point": "A planet moves faster when it is closer to the Sun and slower when it is farther away.",
+        "prompt": "Top view of a planet orbiting the Sun. The Sun is at one side, not in the center. Show the planet moving quickly near the Sun and slowly when far away."
+      },
+      "T03": {
+        "teaching_point": "As a planet orbits the Sun, it sweeps out equal areas in equal time — even though the planet moves faster near the Sun and slower when far.",
+        "prompt": "Top-down view. A planet moves around the Sun in an elliptical orbit. A rotating line connects the planet to the Sun. As the planet moves, this line sweeps out triangle-like shaded areas. Near the Sun, long and thin triangles appear quickly. Far from the Sun, short and wide triangles appear more slowly. Show each shaded area forming in the same amount of time."
+      },
+      "T04": {
+        "teaching_point": "Planets farther from the Sun take longer to complete one orbit.",
+        "prompt": "Show two planets: one close to the Sun and one far. The closer planet orbits quickly, the farther one moves slowly and takes longer."
+      }
+    },
+    "Id": 23,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Simple Harmonic Motion (SHM)",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "In SHM, the motion is repetitive and oscillates about an equilibrium position.",
+        "prompt": "A side view of a single pendulum swinging back and forth repeatedly in smooth motion."
+      },
+      "T02": {
+        "teaching_point": "The restoring force is directed toward the center and increases with displacement.",
+        "prompt": "A mass on a spring moves up and down. Arrows point toward the center, growing longer as the mass moves farther."
+      },
+      "T03": {
+        "teaching_point": "The time period of a pendulum depends on its length.",
+        "prompt": "Show two simple pendulums side by side, swinging at the same time. One pendulum is short, and the other is long. The short pendulum swings faster and completes more full swings in the same time."
+      },
+      "T04": {
+        "teaching_point": "The time period of a spring-mass system depends on the mass and the spring constant.",
+        "prompt": "Show two vertical spring-mass systems bouncing up and down. One spring has a heavy mass and bounces slowly. The other spring is stiff and bounces quickly."
+      },
+      "T05": {
+        "teaching_point": "Energy shifts between kinetic and potential in SHM, but total energy stays the same.",
+        "prompt": "A vertical spring-mass system bouncing. One bar shows kinetic energy and another shows potential energy growing and shrinking as it moves."
+      }
+    },
+    "Id": 24,
+    "category": "Oscillations and Waves"
+  },
+  {
+    "concept": "Damped and Driven Oscillations",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "In damped oscillations, the amplitude decreases over time due to energy loss like friction or air resistance.",
+        "prompt": "A single pendulum swings freely. It starts with a long swing, but each swing gets smaller and smaller until it almost stops."
+      },
+      "T02": {
+        "teaching_point": "Heavier damping reduces oscillation amplitude faster, and in strong damping, oscillation may stop entirely.",
+        "prompt": "Show two identical pendulums swinging. One has a small vane and loses amplitude slowly; the other has a large paddle and stops after just a few swings."
+      },
+      "T03": {
+        "teaching_point": "In driven oscillations, an external periodic force keeps supplying energy to the system.",
+        "prompt": "A mass on a spring is connected to a small motor that pushes it rhythmically, keeping the spring bouncing with steady amplitude."
+      },
+      "T04": {
+        "teaching_point": "At resonance, the frequency of the driving force matches the natural frequency of the system, causing maximum amplitude.",
+        "prompt": "Show a pendulum being gently pushed by a repeating force. At first, the swings are small. As the pushes continue, perfectly timed with the pendulum’s natural motion, the pendulum swings higher and higher with each cycle, eventually reaching maximum amplitude."
+      }
+    },
+    "Id": 25,
+    "category": "Oscillations and Waves"
+  },
+  {
+    "concept": "Density and Pressure",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Density is the amount of mass in a given volume. More mass in the same space means higher density.",
+        "prompt": "Show two transparent glass cubes of the same size. One is filled with feathers, and the other with metal pieces. Two people try to lift them at the same time. The person lifting the feather box lifts it easily. The other person struggles to lift the metal box, showing it is much heavier and denser."
+      },
+      "T02": {
+        "teaching_point": "Objects with higher density sink in fluids, while less dense objects float.",
+        "prompt": "Drop a feather and a metal block into water. The feather floats on the surface, while the metal block sinks to the bottom."
+      },
+      "T03": {
+        "teaching_point": "Pressure is force per unit area. Smaller contact areas create higher pressure.",
+        "prompt": "Show two people pressing down on the ground with equal force. One uses a flat shoe and barely makes a mark, while the other wears a high heel that creates a deep indentation."
+      },
+      "T04": {
+        "teaching_point": "Pressure in a fluid increases with depth.",
+        "prompt": "Show a vertical tank filled with water. Two identical holes are placed at different heights. Water shoots out of both holes. The lowest hole sprays water the farthest, showing greater pressure at more depth."
+      }
+    },
+    "Id": 26,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Buoyant Force and Archimedes’ Principle",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Objects in a fluid experience an upward buoyant force equal to the weight of the fluid they displace.",
+        "prompt": "A cube is lowered into a tank of water. Water level rises as the cube sinks partly into the water. The cube stays suspended, gently floating with some of it above the surface."
+      },
+      "T02": {
+        "teaching_point": "An object floats if the buoyant force is equal to or greater than its weight, and sinks if the weight is greater than the buoyant force.",
+        "prompt": "Show two transparent cubes of the same size. One is filled with feathers, and it floats on water. The other is filled with metal and sinks completely."
+      }
+    },
+    "Id": 27,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Continuity Equation",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Flow rate is conserved in an incompressible fluid.",
+        "prompt": "Water flows steadily through a wide pipe and then into a narrow pipe. The same amount of water passes through both sections every second."
+      },
+      "T02": {
+        "teaching_point": "Fluid speeds up in narrow regions and slows down in wider ones.",
+        "prompt": "Water starts to flow steadily from a tank into a wide pipe that gradually narrows. As water enters the narrow section, it speeds up."
+      },
+      "T03": {
+        "teaching_point": "Narrowing the opening of a hose increases the water speed.",
+        "prompt": "A person waters a garden with a hose. Water flows out slowly. Then the person squeezes the end of the hose, and the water sprays out much faster."
+      }
+    },
+    "Id": 28,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Bernoulli’s Equation",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "In a moving fluid, when speed increases, pressure decreases.",
+        "prompt": "Water flows through a horizontal pipe that narrows in the middle and then widens again. Show the water made up of evenly spaced droplets. As water enters the narrow section, the droplets bunch up and move faster. In the wide section, the droplets slow down and spread apart."
+      },
+      "T02": {
+        "teaching_point": "Pressure is lower where fluid moves faster – Bernoulli’s principle.",
+        "prompt": "A hair dryer is placed at the bottom, pointing straight upward. A ping pong ball floats steadily above it in the fast upward stream of air. When the hair dryer turns off, the ball immediately falls down."
+      },
+      "T03": {
+        "teaching_point": "Total energy in a streamline is conserved — kinetic, potential, and pressure energy trade off.",
+        "prompt": "Show a fluid moving from a low pipe, up a hill, and down again. As water climbs, it slows and pressure increases. At the top, water is slowest. As it flows down, it speeds up and pressure drops."
+      }
+    },
+    "Id": 29,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Viscosity",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Viscosity is a measure of internal friction in a fluid — it resists flow.",
+        "prompt": "Show a side-by-side comparison of two syringes being pushed with equal force: one filled with water and the other with honey. The honey resists motion more, coming out slowly."
+      },
+      "T02": {
+        "teaching_point": "Viscosity decreases with increasing temperature for most liquids.",
+        "prompt": "Place two identical jars of honey — one heated, one at room temperature. Tip both jars at the same time. The warm honey flows quickly, while the room-temperature honey flows slowly."
+      }
+    },
+    "Id": 30,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Surface Tension",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Surface tension allows small, dense objects to float if they don't break the surface.",
+        "prompt": "Gently lower a paperclip onto the surface of still water using a fork. The clip floats despite being metal. Then, shake the container slightly and show it sinking once the surface is disturbed."
+      },
+      "T02": {
+        "teaching_point": "Molecules in a liquid attract each other, causing them to stick together (cohesion).",
+        "prompt": "Show five separate drops of water on a flat glass surface. Slowly, the drops move toward each other and merge into one large droplet."
+      }
+    },
+    "Id": 31,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Temperature and Heat",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Temperature describes the average kinetic energy of particles in a substance.",
+        "prompt": "Split the screen into two parts. On one side, show cold gas particles moving slowly and spaced far apart. On the other side, show hot gas particles moving rapidly and bouncing around quickly. Include a digital thermometer above each container showing low and high temperatures."
+      },
+      "T02": {
+        "teaching_point": "Heat flows from a hotter object to a colder one until both reach the same temperature.",
+        "prompt": "Place a glowing hot metal rod in contact with a cool block of ice. The ice block slowly melts completely."
+      },
+      "T03": {
+        "teaching_point": "More mass requires more heat to raise its temperature or change its state.",
+        "prompt": "Place a small container and a large container, both filled with ice cubes, on identical heated plates. Show the ice in the small container melting completely first. Then continue heating until the ice in the large container also melts fully."
+      }
+    },
+    "Id": 32,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Thermal Expansion",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Materials expand when heated and contract when cooled.",
+        "prompt": "Start with a close-up of a metal rod clamped at both ends on a measurement grid. Heat it using a visible gas flame underneath. As the rod heats, show the markers spreading apart as the rod elongates. Switch to blowing cold air or using ice packs, and show the rod slowly shrinking back to its original length, with the grid confirming the change."
+      },
+      "T02": {
+        "teaching_point": "Different materials expand at different rates under the same heat.",
+        "prompt": "Place a metal rod and a plastic rod side by side on a heated surface. As heat is applied, show both rods gradually expanding. Make the metal rod visibly stretch more than the plastic one. Emphasize the difference by showing a top-down view where the ends of the rods drift apart. Finish with a simple animation overlay showing the metal rod pulsing outward slightly more than the plastic, highlighting faster expansion."
+      }
+    },
+    "Id": 33,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Calorimetry and Specific Heat",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Specific heat is the amount of heat needed to raise the temperature of a unit mass of a substance by 1°C.",
+        "prompt": "Place equal masses of water and oil in two identical beakers. Apply identical flames below each. The oil heats up quickly, while the water heats more slowly. Show both thermometers rising, but the water’s thermometer rising slower.'"
+      },
+      "T02": {
+        "teaching_point": "Materials with high specific heat change temperature more slowly when heated or cooled.",
+        "prompt": "Place a metal block and a wooden block inside two identical glass containers. Set both containers on separate stoves turned on at the same time. As heating begins, the metal block quickly heats up — steam forms inside the glass . The wooden block heats much more slowly, with no steam."
+      },
+      "T03": {
+        "teaching_point": "Calorimetry is the measurement of heat transfer between substances using temperature change.",
+        "prompt": "Drop a glowing red-hot metal ball into a transparent beaker filled with cool water. As the ball enters, steam rises and bubbles form. Over time, the ball gradually loses its red glow, becoming silver again, while the water begins to steam lightly."
+      }
+    },
+    "Id": 34,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Latent Heat",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Temperature remains constant during phase change, even as heat is added.",
+        "prompt": "Place a solid block of ice in a transparent beaker over a stove, with a clearly visible thermometer immersed in the ice-water mixture. As the ice gradually melts into water, the thermometer consistently reads exactly 0°C."
+      }
+    },
+    "T02": {
+      "teaching_point": "Different phase changes involve different amounts of latent heat.",
+      "prompt": "Set up two identical beakers on stoves. In one, ice melts into water; in the other, water boils into steam. Show both beakers receiving heat simultaneously. The ice finishes melting long before the water finishes boiling.'"
+    },
+    "Id": 35,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Zeroth Law of Thermodynamics",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "If two objects are in thermal equilibrium with a third object, they are also in thermal equilibrium with each other.",
+        "prompt": "Three identical thermometers – one in a glass of ice water, one in a cup of hot coffee, and one in a warm room – all show the same temperature. The background is a simple, brightly lit kitchen."
+      },
+      "T02": {
+        "teaching_point": "When objects are in thermal equilibrium, there is no net heat flow between them.",
+        "prompt": "Place two identical silver metal blocks on a heat-insulated surface — one is glowing red-hot, and the other remains cool silver. As they make contact, the red-hot block slowly fades from red to silver, while the cool block warms slightly, shifting from silver to a faint reddish tint. Eventually, both blocks settle at the same dull reddish color"
+      }
+    },
+    "Id": 36,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "First Law of Thermodynamics",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Energy cannot be created or destroyed, only transferred or transformed.",
+        "prompt": "A red-hot metal ball is placed into a beaker of cool water on a heat-insulated surface. Steam rises as the ball cools and the water heats."
+      },
+      "T02": {
+        "teaching_point": "Adding heat to an object increases its internal energy.",
+        "prompt": "Place a cold metal block on a lit stove. As heat is applied from below, the block slowly changes color from dull gray to a faint red glow."
+      }
+    },
+    "Id": 37,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Second Law of Thermodynamics",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Heat naturally flows from a hotter object to a colder one, not the other way around.",
+        "prompt": "Place a red-hot silver metal ball in contact with an identical cool silver metal ball. Over time, the glowing red ball gradually fades, while the cool ball begins to glow faintly. Eventually, both balls reach the same dull reddish color."
+      },
+      "T02": {
+        "teaching_point": "Entropy of an isolated system tends to increase over time.",
+        "prompt": "Begin with a tidy container of gas on one side and a vacuum on the other, separated by a removable partition. Remove the partition. The gas rapidly spreads to fill the entire container."
+      }
+    },
+    "Id": 38,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Third Law of Thermodynamics",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "As temperature approaches absolute zero, the motion of particles nearly stops.",
+        "prompt": "Inside a sealed chamber, show a group of small particles jittering slowly. The environment gets progressively colder — frost forms on the walls, vapor clouds fade, and lighting dims. The particles move less and less until they appear almost completely still, surrounded by deep blue icy stillness. A digital thermometer in the background drops close to 0 K but freezes just above it."
+      },
+      "T02": {
+        "teaching_point": "As temperature decreases, atomic motion and disorder reduce, making materials more orderly.",
+        "prompt": "Show atoms in a loosely arranged structure slowly shifting into a tightly packed, perfectly ordered crystal lattice as the environment gets colder. Frost spreads across the scene, and all motion gradually slows down."
+      }
+    },
+    "Id": 39,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Sound",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Sound is a mechanical wave that propagates through a medium due to the vibration of particles.",
+        "prompt": "Show a tuning fork being struck and placed near a candle flame. As the fork vibrates, illustrate invisible concentric waves traveling outward through the air. The nearby candle flame flickers in sync with the sound waves, demonstrating air particle vibration. Use clean visuals: gray concentric circles for sound waves and a stable background to highlight the flame motion."
+      },
+      "T02": {
+        "teaching_point": "Sound cannot travel through a vacuum because it needs a medium to propagate.",
+        "prompt": "Show two transparent chambers side by side. In the first chamber, a small bell is ringing and sound waves (concentric rings) are shown moving outward. In the second chamber, the same bell is placed inside a sealed vacuum chamber. The bell visibly vibrates, but no sound waves appear. Keep the background and lighting identical. Do not use any text or sound symbols — let the visual absence of sound waves and flicker convey the idea."
+      }
+    },
+    "Id": 40,
+    "category": "Oscillations and Waves" 
+  },
+  {
+    "concept": "Capacitance and Dielectrics",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A capacitor stores electrical energy in an electric field created between its plates.",
+        "prompt": "Two metal plates are positioned close to each other. An arrow visually indicates the flow of electrons from one plate to the other, creating a visible electric field between the plates. A faint glow emanates from the region between the plates."
+      },
+      "T02": {
+        "teaching_point": "Placing a material (like rubber or glass) between the capacitor plates increases the amount of charge it can hold.",
+        "prompt": "A rubber sheet is placed between the plates. More electrons flow between the plates compared to the previous scene, creating a denser electric field visible as a brighter glow."
+      },
+      "T03": {
+        "teaching_point": "Different materials have different abilities to store electrical energy – some are better than others.",
+        "prompt": "Glass, plastic, and ceramic sheets are placed sequentially between the plates. Ceramic shows the brightest glow, indicating the highest energy storage capacity, while plastic shows the least."
+      },
+      "T04": {
+        "teaching_point": "The material's ability to store charge is measured by its dielectric constant, which describes how much better it is than a vacuum.",
+        "prompt": "A scale appears, measuring the amount of charge on the plates. The scale shows a significantly higher reading when the ceramic sheet is present, illustrating the increased charge storage ability."
+      },
+      "T05": {
+        "teaching_point": "The electric field strength between the plates is affected by the presence of a dielectric material.",
+        "prompt": "An animated probe enters the space between the plates containing a plastic sheet. The dielectric constant of the plastic sheet is 3, which is displayed alongside the sheet. The probe glows more brightly than it did with no dielectric, indicating a stronger electric field."
+      }
+    },
+    "Id": 41,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Energy Stored in Capacitors",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Charging a capacitor involves transferring energy from a voltage source to the capacitor’s plates.",
+        "prompt": "A battery sits next to a capacitor. Electrons visibly flow from the battery towards the capacitor plates, with a faint glow around the connection points."
+      },
+      "T02": {
+        "teaching_point": "As charge accumulates on the capacitor plates, an electric field builds up between them.",
+        "prompt": "The capacitor plates gradually develop a subtle, shimmering distortion around the area between them. A small spark occasionally jumps between the plates."
+      },
+      "T03": {
+        "teaching_point": "The capacitor stores energy in the form of an electric field between its plates.",
+        "prompt": "The plates glow intensely with the collected charge, and the shimmering distortion expands outwards, creating a visible ‘bubble’ of energy around the capacitor."
+      },
+      "T04": {
+        "teaching_point": "Disconnecting the voltage source stops the flow of charge and the buildup of the electric field.",
+        "prompt": "The glow around the capacitor plates fades away as the connections are severed. The capacitor plates become dull again, and the background is a darkened laboratory."
+      },
+      "T05": {
+        "teaching_point": "Larger capacitors can hold more charge at a given voltage compared to smaller capacitors.",
+        "prompt": "Two capacitors are side-by-side. One is significantly larger than the other. The larger capacitor visibly ‘fills up’ with more charge than the smaller one, even when connected to the same battery."
+      }
+    },
+    "Id": 42,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Wheatstone Bridge and Meter Bridge",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A bridge circuit uses resistors to create a balanced condition where currents are equal.",
+        "prompt": "Three resistors are connected in a series. A fourth resistor is added, and the circuit is adjusted until currents flow through all four resistors with equal magnitudes. The background is a laboratory bench with wiring and electronic components."
+      },
+      "T02": {
+        "teaching_point": "When a Wheatstone bridge is balanced, the ratio of the resistances is proportional to the ratio of the unknown resistance to a known resistance.",
+        "prompt": "A Wheatstone bridge is balanced with a galvanometer connected in parallel. A slider is moved, changing the resistance, and the galvanometer needle deflects proportionally."
+      },
+      "T03": {
+        "teaching_point": "The meter bridge utilizes a shortened Wheatstone bridge to determine an unknown resistance by comparing it to a known standard resistance.",
+        "prompt": "A meter bridge with a standard resistor and an unknown resistor are connected. A jockey is moved along the meter bridge gap, causing the galvanometer needle to deflect, indicating the relative resistance values."
+      },
+      "T04": {
+        "teaching_point": "The null point on a meter bridge corresponds to the point where the current flowing through the unknown resistor is zero.",
+        "prompt": "A meter bridge is balanced. A jockey is moved until the galvanometer needle is completely still, indicating the null point. The background shows a technician observing the galvanometer."
+      },
+      "T05": {
+        "teaching_point": "The length of the wire in a meter bridge can be adjusted to create a more precise comparison of resistances.",
+        "prompt": "A person adjusts the length of the wire connecting the two arms of a meter bridge. The galvanometer needle deflects less as the wire length changes, indicating a more sensitive measurement."
+      }
+    },
+    "Id": 43,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Ampere’s Law",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Magnetic field lines form closed loops. They start and end at the same point.",
+        "prompt": "A series of circular magnetic field lines emanate from a straight wire and loop back on themselves, continuously forming a complete circle. The background is a minimalist, light gray room with a single, bright, straight wire hanging from the ceiling."
+      },
+      "T02": {
+        "teaching_point": "The more turns of wire in a loop, the stronger the magnetic field around the wire.",
+        "prompt": "Two identical wires, each with many turns, are arranged side-by-side. The magnetic field lines surrounding each wire are visibly denser than those around a single wire with fewer turns. The background is a clean, white laboratory setting."
+      },
+      "T03": {
+        "teaching_point": "A current flowing through a wire creates a magnetic field around it. The direction of the field is determined by the right-hand rule.",
+        "prompt": "A straight wire carries an electric current. Magnetic field lines swirl around the wire in a circular pattern, consistently following the same direction. The background is a simple, dark blue space."
+      },
+      "T04": {
+        "teaching_point": "The strength of the magnetic field is directly proportional to the current flowing through the wire.",
+        "prompt": "Two wires carry the same current. The magnetic field line density around the wire with a larger current is significantly higher than that of the wire with a smaller current. The background is a stark white surface with a scale showing current values."
+      },
+      "T05": {
+        "teaching_point": "The direction of the magnetic field around a current-carrying wire can be found using the right-hand rule.",
+        "prompt": "A hand is positioned in a specific way around a current-carrying wire, fingers curved to follow the circular path of the magnetic field lines. The background is a darkened room with a single wire."
+      }
+    },
+    "Id": 44,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Magnetic Force on Moving Charges",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A charged particle moving through a magnetic field experiences a force.",
+        "prompt": "A positively charged particle moves in a straight line across the center of a circular magnetic field. The background is a stark white laboratory with a large, visible magnetic field created by two parallel, conducting wires."
+      },
+      "T02": {
+        "teaching_point": "The direction of the magnetic force depends on the charge’s sign and the direction of the magnetic field.",
+        "prompt": "A positively charged particle and a negatively charged particle both move in the same magnetic field; one curves to the right, and the other curves to the left. The background is a simplified representation of the magnetic field lines."
+      },
+      "T03": {
+        "teaching_point": "The force is strongest when the particle’s velocity is perpendicular to the magnetic field.",
+        "prompt": "A charged particle moves at an angle through a magnetic field; the particle is pulled towards the center of the field. The background is a magnetic field simulator with clearly defined field lines."
+      },
+      "T04": {
+        "teaching_point": "The strength of the magnetic force is proportional to the charge’s magnitude and the field strength.",
+        "prompt": "Two charged particles of different magnitudes move through a magnetic field. The force on the larger particle is visibly stronger than the force on the smaller particle. The background depicts the magnetic field lines varying in intensity."
+      },
+      "T05": {
+        "teaching_point": "The magnetic force is a component of the force that is always perpendicular to both the velocity and the magnetic field.",
+        "prompt": "A charged particle is shot into a magnetic field, resulting in a circular path.  The background shows a large, open space with a brightly lit magnetic field setup."
+      }
+    },
+    "Id": 45,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Lorentz Force",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A charged particle experiences a force when moving in an electric field.",
+        "prompt": "A single negative charge moves towards a central point where a positive charge is located. The negative charge attracts the positive charge, pulling it closer. The scene is a simplified representation of an atom with a nucleus and orbiting electrons."
+      },
+      "T02": {
+        "teaching_point": "The strength of the force is proportional to the charge and the electric field strength.",
+        "prompt": "Two charges of equal magnitude but opposite signs are positioned near each other. One charge pushes the other towards the center of the system. The distance between them adjusts to maintain this push."
+      },
+      "T03": {
+        "teaching_point": "A charged particle also experiences a force when moving in a magnetic field.",
+        "prompt": "A charged particle moves in a circular path around a magnetic field line. The path is visually represented as a perfect circle. The scene shows a magnetic field line and a positively charged particle orbiting it."
+      },
+      "T04": {
+        "teaching_point": "The direction of the force on a moving charge in a magnetic field is perpendicular to both the velocity of the charge and the magnetic field.",
+        "prompt": "A charged particle enters a magnetic field at an angle. The particle curves in a circular path that is always perpendicular to the direction of the magnetic field. The background is a schematic representation of a magnetic field with a charged particle traversing it."
+      },
+      "T05": {
+        "teaching_point": "The magnetic force on a charged particle is proportional to the charge and the strength of the magnetic field.",
+        "prompt": "Multiple charges of varying magnitudes are arranged around a central point. Each charge experiences a force that causes it to move in a curved path, illustrating the relationship between force, charge, and magnetic field strength."
+      }
+    },
+    "Id": 46,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Moving Coil Galvanometer",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A current creates a magnetic field around a wire.",
+        "prompt": "A wire loop hangs freely. A current flows through the wire, and the loop visibly distorts slightly due to the magnetic field."
+      },
+      "T02": {
+        "teaching_point": "A current-carrying wire in a magnetic field experiences a rotational force.",
+        "prompt": "The wire loop rotates continuously in a magnetic field. The rotation is smooth and persistent."
+      },
+      "T03": {
+        "teaching_point": "The magnitude of the torque depends on the current and the magnetic field strength.",
+        "prompt": "The rotation speed of the wire loop increases when more current flows through it. The magnetic field remains constant."
+      },
+      "T04": {
+        "teaching_point": "The amount of rotation is proportional to the current passing through the coil.",
+        "prompt": "A variable resistor changes the amount of current flowing through the coil.  The coil rotates more rapidly as the current increases, and slower as the current decreases."
+      },
+      "T05": {
+        "teaching_point": "The coil's rotation indicates the magnitude of the current flowing through it.",
+        "prompt": "The coil rotates consistently, with the speed directly linked to the amount of current flowing through it; a larger rotation corresponds to a higher current."
+      }
+    },
+    "Id": 47,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Faraday’s Law of Induction",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A changing magnetic field can create an electric current.",
+        "prompt": "A magnet is moved quickly into and out of a coil of wire. Sparks jump between the terminals of the coil. The background shows a laboratory workbench with various tools."
+      },
+      "T02": {
+        "teaching_point": "The faster the magnet moves, the greater the current produced.",
+        "prompt": "A hand rapidly moves a magnet into and out of a coil. The current increases proportionally to the speed of movement. The background is a simple, clean room with a focus on the coil and magnet."
+      },
+      "T03": {
+        "teaching_point": "The more turns in the coil, the greater the current produced.",
+        "prompt": "A coil with many loops of wire is moved through a magnetic field. A larger current flows than in a coil with fewer loops. The background is a workshop setting with a workbench and tools."
+      },
+      "T04": {
+        "teaching_point": "Changing the strength of the magnetic field also creates a current.",
+        "prompt": "A powerful electromagnet is switched on and off repeatedly, causing a corresponding fluctuation in the current flowing through a connected wire. The background is a control panel with dials and indicators."
+      },
+      "T05": {
+        "teaching_point": "The current flows in a loop to complete the circuit.",
+        "prompt": "A magnet moves into and out of a coil, and a light bulb connected to the coil lights up and dims in sync with the movement. The background is a dimly lit room with a workbench and tools."
+      }
+    },
+    "Id": 48,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Lenz’s Law",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A magnet generates a current when its magnetic field changes.",
+        "prompt": "A compass needle spins freely. A hand quickly moves a magnet towards and away from it, causing the needle to react and rotate."
+      },
+      "T02": {
+        "teaching_point": "The current’s direction is such that it opposes the change in magnetic field that produced it.",
+        "prompt": "A coil of wire sits near a permanent magnet. The magnet is quickly moved closer and then farther away from the coil; the coil visibly resists each movement by twisting."
+      },
+      "T03": {
+        "teaching_point": "The induced current creates its own magnetic field, which interacts with the original field.",
+        "prompt": "Two coils of wire are positioned close together. A hand rapidly moves a magnet between them, and the coils visibly twist and turn to resist the motion."
+      },
+      "T04": {
+        "teaching_point": "The strength of the induced current depends on how quickly the magnetic field changes.",
+        "prompt": "A hand moves a magnet very slowly towards and away from a coil; the coil does not react. The background is a lab setting with other scientific instruments."
+      },
+      "T05": {
+        "teaching_point": "The induced current always creates a magnetic field that tries to cancel the original change.",
+        "prompt": "A battery is connected to a coil of wire. A magnet is quickly moved towards the coil, and the coil visibly rotates in the opposite direction."
+      }
+    },
+    "Id": 49,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Self and Mutual Inductance",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A changing current in a coil creates a magnetic field, which can induce a current in another coil nearby.",
+        "prompt": "Show two coils placed close to each other. A switch turns on in the first coil, causing current to flow and generate a magnetic field. This changing field induces a current in the second coil, which lights up a small bulb."
+      },
+      "T02": {
+        "teaching_point": "A coil's magnetic field changes when the current flowing through it changes.",
+        "prompt": "Show a single coil connected to a variable power supply. As the current increases and decreases, animated magnetic field lines grow and shrink around the coil in sync with the current."
+      },
+      "T03": {
+        "teaching_point": "The amount of a coil's magnetic field that is produced by a changing current is known as self-inductance.",
+        "prompt": "Show a single coil with increasing current. As current increases, denser magnetic field lines form around the coil."
+      },
+      "T04": {
+        "teaching_point": "When a changing magnetic field from one coil interacts with another coil, a voltage is induced in the second coil – this is mutual inductance.",
+        "prompt": "Show two coils side by side. A changing current in Coil A creates a fluctuating magnetic field. As the field passes through Coil B, a voltmeter connected to Coil B shows voltage rising."
+      },
+      "T05": {
+        "teaching_point": "The more turns of wire in a coil, the greater its ability to generate a magnetic field and induce a voltage when current changes.",
+        "prompt": "Show three coils with 5, 10, and 20 turns respectively. As the same current is passed through each, display magnetic field lines — stronger and denser with more turns. Highlight the increasing voltage in a meter for each coil."
+      }
+    },
+    "Id": 50,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "AC Generators and Transformers",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Moving a conductor within a magnetic field creates an electric current.",
+        "prompt": "Show a wire loop rotating between the poles of a horseshoe magnet. As the wire spins, a glowing path appears along the wire, representing current generation. Connect the wire ends to a bulb that lights up."
+      },
+      "T02": {
+        "teaching_point": "The faster the conductor moves, the more electric current is produced.",
+        "prompt": "Display two setups side by side: in one, a coil rotates slowly in a magnetic field, and in the other, it spins rapidly. Show the bulb in the faster setup glowing brighter to indicate more current."
+      },
+      "T04": {
+        "teaching_point": "A transformer increases or decreases voltage using electromagnetic induction.",
+        "prompt": "Show a transformer with an input coil connected to an AC source. Magnetic field lines extend through the core to a second coil. A voltmeter at the output coil displays a different voltage, depending on coil turns."
+      },
+      "T05": {
+        "teaching_point": "The ratio of turns between the primary and secondary coils determines the voltage transformation in a transformer.",
+        "prompt": "Show three transformers with different turn ratios (e.g., 1:1, 1:2, 2:1). Use animated numbers above each coil set to show how voltage increases or decreases depending on the ratio."
+      }
+    },
+    "Id": 51,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "AC Voltage and Current",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Alternating current (AC) changes direction periodically, unlike direct current (DC), which flows in one direction.",
+        "prompt": "Show two wires side by side. In one (DC), small glowing particles (electrons) move steadily in one direction. In the other (AC), particles move back and forth rhythmically, switching directions."
+      }
+    },
+    "Id": 52,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Reflection and Refraction",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Light bounces off a surface in a predictable way when it hits a smooth surface.",
+        "prompt": "A laser pointer beam strikes a mirror, and the beam changes direction, bouncing away at the same angle. The background is a darkened room with a table and a simple geometric shape."
+      },
+      "T02": {
+        "teaching_point": "The angle at which light bounces off a surface is equal to the angle of incidence.",
+        "prompt": "Show a single ray of light approaching a smooth, flat mirror at an angle. When it hits the surface, it reflects away at the same angle on the opposite side of a visible normal line (perpendicular to the surface). Add angle markers (θ₁ = θ₂) and a protractor-style overlay for clarity."
+      },
+      "T03": {
+        "teaching_point": "When light passes from one material to another, it changes direction.",
+        "prompt": "A ray of light travels from a block of glass into air, bending as it exits; it travels at an altered angle. The background is a workshop with a workbench and various tools."
+      },
+      "T04": {
+        "teaching_point": "Light bends towards the material that is denser.",
+        "prompt": "A ray of light travels from air into water, bending downwards as it enters the water. A ruler is placed alongside the water to show the bending effect. The background is a clear glass tank filled with water."
+      },
+      "T05": {
+        "teaching_point": "Light bends away from the material that is less dense.",
+        "prompt": "A ray of light travels from water into air, bending upwards as it exits the water. A ruler is placed alongside the water to show the bending effect. The background is a clear glass tank filled with water."
+      }
+    },
+    "Id": 53,
+    "category": "Optics"
+  },
+  {
+    "concept": "Interference of Waves",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Constructive interference occurs when waves add together to create a bigger wave.",
+        "prompt": "Two waves move in the same direction and crest at the same point, increasing the amplitude of the resulting wave. The background is a dark room with a single spotlight."
+      },
+      "T02": {
+        "teaching_point": "Destructive interference occurs when waves cancel each other out.",
+        "prompt": "A wave crest meets a wave trough, and the water returns to its original calm state. The background is a calm ocean surface with light reflecting off the water."
+      }
+    },
+    "Id": 54,
+    "category": "Optics"
+  },
+  {
+    "concept": "Diffraction",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Diffraction is the bending and spreading of waves when they encounter an obstacle or pass through a narrow slit.",
+        "prompt": "Show a water wave approaching a narrow gap in a barrier. As it passes through, the wavefronts spread out in semicircles beyond the slit, showing clear bending around edges."
+      },
+      "T02": {
+        "teaching_point": "The extent of diffraction increases when the slit size is comparable to the wavelength of the wave.",
+        "prompt": "Display two slits: one wide and one narrow. Shine monochromatic light through both. The narrow slit produces wider and more spread-out diffraction patterns than the wide slit."
+      },
+      "T03": {
+        "teaching_point": "Diffraction causes light to form interference patterns of bright and dark fringes.",
+        "prompt": "Show a laser beam passing through a single slit and hitting a screen. Display the resulting pattern: a central bright fringe with alternating dark and bright bands on both sides."
+      }
+    },
+    "Id": 55,
+    "category": "Optics"
+  },
+  {
+    "concept": "Coherent and incoherent sources",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "A coherent source produces waves that are all the same shape and travel in the same direction.",
+        "prompt": "A vibrating tuning fork sits on a table.  Show waves emanating outwards in all directions from the fork, appearing as circular ripples expanding from a central point. The background is a dark room with a simple wooden table."
+      },
+      "T02": {
+        "teaching_point": "An incoherent source produces waves that are different shapes and travel in different directions.",
+        "prompt": "Multiple objects – a bell, a speaker, and a drum – vibrate simultaneously in a small room. Waves radiate outwards from each object, appearing as chaotic, overlapping circles and irregular patterns spreading throughout the space.  The background shows a basic office environment."
+      }
+    },
+    "Id": 56,
+    "category": "Optics"
+  },
+  {
+    "concept": "Heat Engines and Refrigerators",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Heat engines convert thermal energy into mechanical work.",
+        "prompt": "A steam locomotive's wheels start turning as steam rises from the engine."
+      },
+      "T02": {
+        "teaching_point": "The efficiency of a heat engine is the ratio of work output to heat input.",
+        "prompt": "Two identical steam locomotives, one moving faster than the other, while both emit the same amount of steam."
+      },
+      "T03": {
+        "teaching_point": "Refrigerators move thermal energy from a cool environment to a warmer one.",
+        "prompt": "Ice cubes inside a transparent fridge begin to melt while the back of the fridge releases warm air."
+      }
+    },
+    "Id": 57,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Entropy",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Entropy is a measure of the disorder or randomness in a system.",
+        "prompt": "Show a box of neatly arranged red and blue balls. Then shake the box — the balls randomly mix and spread out, representing increased disorder."
+      },
+      "T02": {
+        "teaching_point": "In natural processes, entropy tends to increase, leading to more disordered states over time.",
+        "prompt": "Show an ice cube melting into water. The initially ordered structure of the ice transitions into disordered liquid molecules, represented by free-moving particles."
+      },
+      "T03": {
+        "teaching_point": "Entropy increases when energy becomes more spread out and less available to do useful work.",
+        "prompt": "Show hot gas particles in one half of a box. After removing a partition, the gas spreads evenly throughout, symbolizing energy spreading out and becoming less usable."
+      }
+    },
+    "Id": 58,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Lenses and Ray Diagrams",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Converging lenses (convex) focus parallel rays of light to a single point known as the focal point.",
+        "prompt": "Show parallel rays of sunlight entering a clear convex lens. Slowly trace each ray bending inward and meeting at a single bright point on the opposite side, labeled 'F'. Use a zoom-in to emphasize the convergence and lens shape."
+      },
+      "T02": {
+        "teaching_point": "Diverging lenses (concave) spread out parallel rays of light away from a single point.",
+        "prompt": "Show parallel light rays entering a concave lens. As they pass through, animate each ray bending outward. Extend dotted lines backward behind the lens to intersect at a point labeled 'F'."
+      },
+      "T03": {
+        "teaching_point": "The image formed by a concave lens is always virtual, upright, and smaller than the object, no matter where the object is placed.",
+        "prompt": "Place an object (e.g., a candle) in front of a concave lens. Show the principal rays: one parallel (diverges as if from focal point), one toward the center (passes straight). Mark the rays' extensions meeting behind the object to form a small upright virtual image."
+      }
+    },
+    "Id": 59,
+    "category": "Optics"
+  },
+  {
+    "concept": "Resonance",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Resonance occurs when a system is driven by an external force at its natural frequency, leading to large amplitude oscillations.",
+        "prompt": "Show a child sitting on a swing. Initially, the pushes are irregular, and the swing barely moves. Then, demonstrate the child being pushed at regular intervals matching the swing’s natural back-and-forth motion. With each well-timed push, the swing’s amplitude increases noticeably. Clearly highlight that the energy transfer is most efficient when the pushing frequency matches the swing’s natural frequency."
+      },
+      "T02": {
+        "teaching_point": "Different systems have different natural frequencies; resonance occurs only when the driving frequency matches the system’s natural frequency.",
+        "prompt": "Show three identical glass goblets placed side by side, each labeled with a different natural frequency (f₁, f₂, f₃). A nearby speaker emits a sound that gradually sweeps across frequencies. When the sound matches f₂, the middle goblet begins to visibly vibrate, possibly showing cracking or distortion. The other goblets remain unaffected. Use animated wave patterns to visually represent the matching frequencies."
+      }
+    },
+    "Id": 60,
+    "category": "Oscillations and Waves"
+  }
+]

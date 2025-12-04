@@ -1,0 +1,200 @@
+[
+  {
+    "concept": "Kepler’s Laws of Planetary Motion",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "As a planet orbits the Sun, it sweeps out equal areas in equal time — even though the planet moves faster near the Sun and slower when far.",
+        "prompt": "Top-down view. A planet moves around the Sun in an elliptical orbit. A rotating line connects the planet to the Sun. As the planet moves, this line sweeps out triangle-like shaded areas. Near the Sun, long and thin triangles appear quickly. Far from the Sun, short and wide triangles appear more slowly. Show each shaded area forming in the same amount of time."
+      }
+    },
+    "Id": 23,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Contact Forces",
+    "teaching_points": {
+      "T02": {
+        "teaching_point": "The normal force pushes up from a surface to support an object resting on it.",
+        "prompt": "A book lies flat on a table. A subtle arrow points upward from the table surface, countering the downward arrow of the book’s weight. The background shows a quiet study room with shelves of books."
+      }
+    },
+    "Id": 5,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Newton’s First Law of Motion (Inertia)",
+    "teaching_points": {
+      "T05": {
+        "teaching_point": "When a force is applied, an object accelerates in the direction of that force.",
+        "prompt": "A person pushes a shopping cart; the cart begins to move down a smooth aisle. The background shows a supermarket aisle."
+      }
+    },
+    "Id": 1,
+    "category": "Mechanics"
+  },
+  {
+    "concept": "Resonance",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Resonance occurs when a system is driven by an external force at its natural frequency, leading to large amplitude oscillations.",
+        "prompt": "Show a child sitting on a swing. Initially, the pushes are irregular, and the swing barely moves. Then, demonstrate the child being pushed at regular intervals matching the swing’s natural back-and-forth motion. With each well-timed push, the swing’s amplitude increases noticeably. Clearly highlight that the energy transfer is most efficient when the pushing frequency matches the swing’s natural frequency."
+      }
+    },
+    "Id": 60,
+    "category": "Oscillations and Waves"
+  },
+  {
+    "concept": "Simple Harmonic Motion (SHM)",
+    "teaching_points": {
+      "T05": {
+        "teaching_point": "Energy shifts between kinetic and potential in SHM, but total energy stays the same.",
+        "prompt": "A vertical spring-mass system bouncing. One bar shows kinetic energy and another shows potential energy growing and shrinking as it moves."
+      }
+    },
+    "Id": 24,
+    "category": "Oscillations and Waves"
+  },
+  {
+    "concept": "Simple Harmonic Motion (SHM)",
+    "teaching_points": {
+      "T04": {
+        "teaching_point": "The time period of a spring-mass system depends on the mass and the spring constant.",
+        "prompt": "Show two vertical spring-mass systems bouncing up and down. One spring has a heavy mass and bounces slowly. The other spring is stiff and bounces quickly."
+      }
+    },
+    "Id": 24,
+    "category": "Oscillations and Waves"
+  },
+  {
+    "concept": "Continuity Equation",
+    "teaching_points": {
+      "T02": {
+        "teaching_point": "Fluid speeds up in narrow regions and slows down in wider ones.",
+        "prompt": "Water starts to flow steadily from a tank into a wide pipe that gradually narrows. As water enters the narrow section, it speeds up."
+      }
+    },
+    "Id": 28,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Density and Pressure",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "Pressure is force per unit area. Smaller contact areas create higher pressure.",
+        "prompt": "Show two people pressing down on the ground with equal force. One uses a flat shoe and barely makes a mark, while the other wears a high heel that creates a deep indentation."
+      }
+    },
+    "Id": 26,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Bernoulli’s Equation",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "Total energy in a streamline is conserved — kinetic, potential, and pressure energy trade off.",
+        "prompt": "Show a fluid moving from a low pipe, up a hill, and down again. As water climbs, it slows and pressure increases. At the top, water is slowest. As it flows down, it speeds up and pressure drops."
+      }
+    },
+    "Id": 29,
+    "category": "Fluids"
+  },
+  {
+    "concept": "Thermal Expansion",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Materials expand when heated and contract when cooled.",
+        "prompt": "Start with a close-up of a metal rod clamped at both ends on a measurement grid. Heat it using a visible gas flame underneath. As the rod heats, show the markers spreading apart as the rod elongates. Switch to blowing cold air or using ice packs, and show the rod slowly shrinking back to its original length, with the grid confirming the change."
+      }
+    },
+    "Id": 33,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Entropy",
+    "teaching_points": {
+      "T02": {
+        "teaching_point": "In natural processes, entropy tends to increase, leading to more disordered states over time.",
+        "prompt": "Show an ice cube melting into water. The initially ordered structure of the ice transitions into disordered liquid molecules, represented by free-moving particles."
+      }
+    },
+    "Id": 58,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Heat Engines and Refrigerators",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Heat engines convert thermal energy into mechanical work.",
+        "prompt": "A steam locomotive's wheels start turning as steam rises from the engine."
+      }
+    },
+    "Id": 57,
+    "category": "Thermodynamics"
+  },
+  {
+    "concept": "Energy Stored in Capacitors",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Charging a capacitor involves transferring energy from a voltage source to the capacitor’s plates.",
+        "prompt": "A battery sits next to a capacitor. Electrons visibly flow from the battery towards the capacitor plates, with a faint glow around the connection points."
+      }
+    },
+    "Id": 42,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Faraday’s Law of Induction",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "The more turns in the coil, the greater the current produced.",
+        "prompt": "A coil with many loops of wire is moved through a magnetic field. A larger current flows than in a coil with fewer loops. The background is a workshop setting with a workbench and tools."
+      }
+    },
+    "Id": 48,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Lorentz Force",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "A charged particle also experiences a force when moving in a magnetic field.",
+        "prompt": "A charged particle moves in a circular path around a magnetic field line. The path is visually represented as a perfect circle. The scene shows a magnetic field line and a positively charged particle orbiting it."
+      }
+    },
+    "Id": 46,
+    "category": "Electromagnetism"
+  },
+  {
+    "concept": "Reflection and Refraction",
+    "teaching_points": {
+      "T01": {
+        "teaching_point": "Light bounces off a surface in a predictable way when it hits a smooth surface.",
+        "prompt": "A laser pointer beam strikes a mirror, and the beam changes direction, bouncing away at the same angle. The background is a darkened room with a table and a simple geometric shape."
+      }
+    },
+    "Id": 53,
+    "category": "Optics"
+  },
+  {
+    "concept": "Lenses and Ray Diagrams",
+    "teaching_points": {
+      "T03": {
+        "teaching_point": "The image formed by a concave lens is always virtual, upright, and smaller than the object, no matter where the object is placed.",
+        "prompt": "Place an object (e.g., a candle) in front of a concave lens. Show the principal rays: one parallel (diverges as if from focal point), one toward the center (passes straight). Mark the rays' extensions meeting behind the object to form a small upright virtual image."
+      }
+    },
+    "Id": 59,
+    "category": "Optics"
+  },
+  {
+    "concept": "Reflection and Refraction",
+    "teaching_points": {
+      "T02": {
+        "teaching_point": "The angle at which light bounces off a surface is equal to the angle of incidence.",
+        "prompt": "Show a single ray of light approaching a smooth, flat mirror at an angle. When it hits the surface, it reflects away at the same angle on the opposite side of a visible normal line (perpendicular to the surface). Add angle markers (θ₁ = θ₂) and a protractor-style overlay for clarity."
+      }
+    },
+    "Id": 53,
+    "category": "Optics"
+  }
+]
