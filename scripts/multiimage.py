@@ -172,12 +172,6 @@ def save_surrounding_frames(frames, scores, output_path):
         print(f"Frame saved at: {frame_output_path}")
     return start_index, max_index, end_index
 
-
-
-client = OpenAI(
-    api_key='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'
-)
-
 pretrix = "Answer me in Format:{'Choice':'Yes or No','Reason':'the reason'} "
 
 with open('multi/LLaVA-NeXT-interleave_inference/llava/eval/LLaVA-NeXT/llava/eval/pc-2.json','r') as f:
