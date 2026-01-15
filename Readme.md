@@ -5,7 +5,7 @@
 <p align="left">
   <a href="#-quick-start"><b>Quick Start</b></a> |
   <a href="https://meghamariamkm.github.io/phyeduvideo26/"><b>ProjectPage</b></a> |
-  <a href="#"><b>arXiv</b></a> |
+  <a href="https://arxiv.org/abs/2601.00943"><b>arXiv</b></a> |
   <a href="#citation"><b>Citation</b></a> <br>
 </p>
 
